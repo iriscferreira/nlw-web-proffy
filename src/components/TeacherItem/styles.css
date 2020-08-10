@@ -62,7 +62,7 @@
     background: var(--color-secondary);
     border: 0;
     border-radius: .8rem;
-    transition: .2s;
+    transition: 0.2s;
     cursor: pointer;
 }
 
